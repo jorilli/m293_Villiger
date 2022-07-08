@@ -31,7 +31,7 @@ body {
 
 #banner {
     display: grid;
-    grid-template-columns: 20vh 170vh 40vh;
+    grid-template-columns: 20vh 165vh 40vh;
     background-color: #d15600;
     color: white;
     font-style: initial;
