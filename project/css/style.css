@@ -1,6 +1,9 @@
 html {
     font-family: Arial;
 }
+picture{
+    font-size: 30%;
+}
 
 body {
     position: relative;
@@ -89,6 +92,10 @@ form{
 @media screen and (max-width: 575px) {
     html {
         font-family: Arial;
+    }
+
+    video{
+    width: 95%;
     }
 
     body {

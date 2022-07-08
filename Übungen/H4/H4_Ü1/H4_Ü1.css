@@ -1,0 +1,11 @@
+figure {
+    background-color: black;
+    color: white;
+    font-style: italic;
+    padding: 2px;
+    text-align: center;
+    font-size: 200%;
+}
+img{
+    width: 80%;
+}
