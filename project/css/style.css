@@ -5,6 +5,31 @@ picture{
     font-size: 30%;
 }
 
+figure {
+    border: 1px #cccccc solid;
+    padding: 4px;
+    max-width: 50%;
+}
+#rewiev1{
+    max-width: available;
+    margin-top: 9vh;
+    margin-left: 10vh;
+}
+
+#rewiev2{
+    max-width: available;
+    margin-top: 10vh;
+    margin-left: 10vh;
+}
+
+figcaption {
+    background-color: lightgray;
+    color: white;
+    font-style: italic;
+    padding: 2px;
+    text-align: center;
+}
+
 body {
     position: relative;
     margin: 0;
