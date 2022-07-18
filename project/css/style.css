@@ -119,6 +119,24 @@ form{
         font-family: Arial;
     }
 
+    figure {
+        border: 1px #cccccc solid;
+        padding: 4px;
+        max-width: 80%;
+
+    }
+    #rewiev1{
+        max-width: available;
+        margin-top: 4vh;
+        margin-left: 3.5vh;
+    }
+
+    #rewiev2{
+        max-width: available;
+        margin-top: 4vh;
+        margin-left: 3.5vh;
+    }
+
     video{
     width: 95%;
     }
@@ -147,15 +165,15 @@ form{
     }
 
     #bannerBorder {
-        width: 330%;
+        width: 355.5%;
         height: 3px;
         background-color: #8c0000;
-        margin-top: -15%;
+        margin-top: -16%;
     }
 
     #banner {
         display: grid;
-        grid-template-columns: 14vh 19vh 15vh;
+        grid-template-columns: 13vh 17vh 15vh;
         background-color: #d15600;
         color: white;
         font-style: initial;
